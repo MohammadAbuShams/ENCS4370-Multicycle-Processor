@@ -1,0 +1,11 @@
+[Version]
+Version=15.0
+[Designs]
+multycycle=.\multycycle\multycycle.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+[Expand]
+multycycle=1
