@@ -31,12 +31,6 @@ Project Submission Date: 20-06-2023
 - **Separate Instruction and Data Memories**: Implements separate memories for instructions and data, adhering to the principles of the Harvard architecture.
 - **Detailed Verification**: Utilizes extensive simulation and test benches to ensure the correct functionality of all implemented instructions.
 
-## Repository Structure
-
-- `docs/` - Project reports and documentation.
-- `src/` - Verilog source files for the processor components.
-- `test/` - Test benches and simulation files.
-
 ## Design and Implementation
 
 The processor features a comprehensive design with a focus on the following components:
