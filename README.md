@@ -6,23 +6,6 @@ This repository contains the project for the COMPUTER ARCHITECTURE – ENCS4370 
 
 The aim of this project was to create a 16-bit RISC processor capable of handling multiple instruction formats such as R-type, I-type, J-type, and S-type, each with its specific opcode and set of functionalities. The processor is designed to utilize a multi-cycle approach to instruction execution, enhancing the efficiency of resource usage and optimizing functional unit operations like the ALU and memory accesses.
 
-## Team Members
-
-- Mohammad Abu Shams (1200549)
-- Abdalrahim Thiab (1202102)
-- Nirmeen Shaikh (1200200)
-
-## Instructor
-
-Dr. Ayman Hroub
-
-## Section
-
-Section: 2
-
-## Date
-
-Project Submission Date: 20-06-2023
 
 ## Features
 
