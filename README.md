@@ -30,4 +30,10 @@ Each component is meticulously designed to handle specific tasks within the proc
 
 Simulation tests are included to verify the functionality of each component and the processor as a whole. These tests cover various scenarios to ensure all parts of the processor work together seamlessly and correctly.
 
+## Contributors
+
+- [Mohammad Abushams](https://github.com/MohammadAbuShams)
+- Nirmeen Shaikh
+- Abdalrahim Thiab
+
 
