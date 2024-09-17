@@ -32,7 +32,7 @@ Simulation tests are included to verify the functionality of each component and 
 
 ## Contributors
 
-- [Mohammad Abushams](https://github.com/MohammadAbuShams)
+- [Mohammad AbuShams](https://github.com/MohammadAbuShams)
 - Nirmeen Shaikh
 - Abdalrahim Thiab
 
